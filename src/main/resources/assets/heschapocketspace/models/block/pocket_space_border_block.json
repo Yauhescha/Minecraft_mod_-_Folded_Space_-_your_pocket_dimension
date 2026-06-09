@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "heschapocketspace:block/pocket_space_border_block"
+  }
+}

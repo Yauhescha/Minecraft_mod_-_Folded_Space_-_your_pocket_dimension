@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "#C#",
+    "C#C",
+    "#C/"
+  ],
+  "key": {
+    "#": "minecraft:stone",
+    "C": "minecraft:chest",
+    "/": "minecraft:redstone_torch"
+  },
+  "group": "pocket_space",
+  "result": {
+    "id": "heschapocketspace:pocket_space_activation_item",
+    "count": 1
+  }
+}
